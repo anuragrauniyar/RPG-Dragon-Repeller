@@ -10,7 +10,7 @@ body {
   }
   
   #game {
-    max-width:64vw;
+    max-width:70vw;
     max-height: 50vh;
     background-color: #ffffff;
     color: #ffffff;
@@ -44,4 +44,5 @@ body {
     background-image: linear-gradient(#fecc4c, #ffac33);
     border: 3px solid #feac32;
     font-size: xx-large;
+    margin: 5px;
   }
