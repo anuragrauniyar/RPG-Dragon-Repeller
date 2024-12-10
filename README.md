@@ -27,16 +27,9 @@ An interactive text-based RPG game where you take on the role of a hero who must
 3. **Fight the dragon** after defeating other monsters to win the game.
 
 ## Live Demo:
-You can play the game live on [this link](https://anuragrauniyar.github.io/RPG-dragon-repeller/)
+You can play the game live on [this link](https://anuragrauniyar.github.io/RPG-Dragon-Repeller/)
 
 ## Screenshot:
 ![Screenshot](https://github.com/user-attachments/assets/adc50f4c-03e1-472a-a207-5b0085fc88f3)
-
-
-## Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anuragrauniyar/RPG-Dragon-Repeller.git
-2. Open the index.html file in your browser to start playing the game.
 
 
